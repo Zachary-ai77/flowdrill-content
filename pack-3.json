@@ -1,0 +1,232 @@
+{
+  "contentVersion" : "2026.11.3",
+  "lessons" : [
+    {
+      "drills" : [
+        {
+          "expectedAnswer" : "I'm going to cook dinner.",
+          "explanation" : "going to 后使用动词原形。",
+          "id" : "plans-sub-1",
+          "instruction" : "把 buy groceries 换成 cook dinner",
+          "kind" : "substitution",
+          "meaning" : "我要做晚饭。",
+          "prompt" : "I'm going to buy groceries."
+        },
+        {
+          "expectedAnswer" : "I'm not going to drive today.",
+          "explanation" : "否定形式是 am not going to。",
+          "id" : "plans-trans-1",
+          "instruction" : "改成否定句",
+          "kind" : "transformation",
+          "meaning" : "我今天不打算开车。",
+          "prompt" : "I'm going to drive today."
+        },
+        {
+          "expectedAnswer" : "I'm going to make dinner after work.",
+          "explanation" : "答案可以不同；本版以示例句帮助建立句型。",
+          "id" : "plans-resp-1",
+          "instruction" : "用完整句回答",
+          "kind" : "response",
+          "meaning" : "下班后我要做晚饭。",
+          "prompt" : "What are you going to do after work?"
+        },
+        {
+          "expectedAnswer" : "I'm going to call my friend tonight.",
+          "explanation" : "时间信息通常放在句末。",
+          "id" : "plans-exp-1",
+          "instruction" : "加入时间 tonight",
+          "kind" : "expansion",
+          "meaning" : "我今晚要给朋友打电话。",
+          "prompt" : "I'm going to call my friend."
+        }
+      ],
+      "id" : "daily-plans-01",
+      "level" : "A2–B1",
+      "pattern" : "I'm going to + 动词原形",
+      "subtitle" : "用 I'm going to… 自然表达下一步打算",
+      "title" : "安排今天的计划"
+    },
+    {
+      "drills" : [
+        {
+          "expectedAnswer" : "Could you close the door?",
+          "explanation" : "Could you 后使用动词原形。",
+          "id" : "request-sub-1",
+          "instruction" : "把 open the window 换成 close the door",
+          "kind" : "substitution",
+          "meaning" : "你能把门关上吗？",
+          "prompt" : "Could you open the window?"
+        },
+        {
+          "expectedAnswer" : "Could you send me the file?",
+          "explanation" : "用 Could you 降低命令感。",
+          "id" : "request-trans-1",
+          "instruction" : "把直接命令改成礼貌请求",
+          "kind" : "transformation",
+          "meaning" : "你能把文件发给我吗？",
+          "prompt" : "Send me the file."
+        },
+        {
+          "expectedAnswer" : "Sure, I'd be happy to.",
+          "explanation" : "这是自然、友好的应答。",
+          "id" : "request-resp-1",
+          "instruction" : "给出自然的肯定回答",
+          "kind" : "response",
+          "meaning" : "当然，我很乐意。",
+          "prompt" : "Could you help me with this?"
+        },
+        {
+          "expectedAnswer" : "Could you check this when you have a minute?",
+          "explanation" : "加入条件让请求更体贴。",
+          "id" : "request-exp-1",
+          "instruction" : "加入 when you have a minute",
+          "kind" : "expansion",
+          "meaning" : "你有空时能看一下这个吗？",
+          "prompt" : "Could you check this?"
+        }
+      ],
+      "id" : "polite-requests-01",
+      "level" : "A2–B1",
+      "pattern" : "Could you + 动词原形…?",
+      "subtitle" : "用 Could you…? 处理真实生活场景",
+      "title" : "提出礼貌请求"
+    },
+    {
+      "drills" : [
+        {
+          "expectedAnswer" : "Could you speak more slowly?",
+          "explanation" : "用同一句型替换请求内容。",
+          "id" : "clarify-sub-1",
+          "instruction" : "把 repeat that 换成 speak more slowly",
+          "kind" : "substitution",
+          "meaning" : "你能说慢一点吗？",
+          "prompt" : "Could you repeat that?"
+        },
+        {
+          "expectedAnswer" : "Could you say that again?",
+          "explanation" : "Could you 能使请求更礼貌。",
+          "id" : "clarify-trans-1",
+          "instruction" : "把直接命令改成礼貌请求",
+          "kind" : "transformation",
+          "meaning" : "你能再说一遍吗？",
+          "prompt" : "Say that again."
+        },
+        {
+          "expectedAnswer" : "Sure, I said the meeting starts at nine.",
+          "explanation" : "先回应，再重复关键信息。",
+          "id" : "clarify-resp-1",
+          "instruction" : "回答对方的确认请求",
+          "kind" : "response",
+          "meaning" : "当然，我说会议九点开始。",
+          "prompt" : "Could you say that again?"
+        },
+        {
+          "expectedAnswer" : "Could you repeat the address, please?",
+          "explanation" : "句末 please 表示礼貌。",
+          "id" : "clarify-exp-1",
+          "instruction" : "加入 please",
+          "kind" : "expansion",
+          "meaning" : "请再说一遍地址好吗？",
+          "prompt" : "Could you repeat the address?"
+        }
+      ],
+      "id" : "clarifying-01",
+      "level" : "A2–B1",
+      "pattern" : "Could you + 动词原形…?",
+      "subtitle" : "请求对方重复或说慢一点",
+      "title" : "听不清时确认"
+    },
+    {
+      "drills" : [
+        {
+          "expectedAnswer" : "I'd rather go for a walk.",
+          "explanation" : "I'd rather 后接动词原形。",
+          "id" : "prefer-sub-1",
+          "instruction" : "把 stay home 换成 go for a walk",
+          "kind" : "substitution",
+          "meaning" : "我更想出去散步。",
+          "prompt" : "I'd rather stay home."
+        },
+        {
+          "expectedAnswer" : "I'd rather not take a taxi.",
+          "explanation" : "否定词 not 放在动词原形之前。",
+          "id" : "prefer-trans-1",
+          "instruction" : "改为否定句",
+          "kind" : "transformation",
+          "meaning" : "我宁愿不坐出租车。",
+          "prompt" : "I'd rather take a taxi."
+        },
+        {
+          "expectedAnswer" : "I'd rather have tea.",
+          "explanation" : "可用 I'd rather have... 表达选择。",
+          "id" : "prefer-resp-1",
+          "instruction" : "用偏好句型回答",
+          "kind" : "response",
+          "meaning" : "我更想喝茶。",
+          "prompt" : "Do you want coffee or tea?"
+        },
+        {
+          "expectedAnswer" : "I'd rather sit outside because it's quieter.",
+          "explanation" : "用 because 补充自然的理由。",
+          "id" : "prefer-exp-1",
+          "instruction" : "加入原因 because it's quieter",
+          "kind" : "expansion",
+          "meaning" : "我更想坐在外面，因为那里更安静。",
+          "prompt" : "I'd rather sit outside."
+        }
+      ],
+      "id" : "preferences-01",
+      "level" : "A2–B1",
+      "pattern" : "I'd rather + 动词原形",
+      "subtitle" : "说出想法并给出简单原因",
+      "title" : "表达个人偏好"
+    },
+    {
+      "drills" : [
+        {
+          "expectedAnswer" : "Could we meet on Friday?",
+          "explanation" : "替换日期，保持请求句型。",
+          "id" : "reschedule-sub-1",
+          "instruction" : "把 meet on Monday 换成 meet on Friday",
+          "kind" : "substitution",
+          "meaning" : "我们能周五见面吗？",
+          "prompt" : "Could we meet on Monday?"
+        },
+        {
+          "expectedAnswer" : "Could we move the call to tomorrow?",
+          "explanation" : "Could we 可用于共同安排。",
+          "id" : "reschedule-trans-1",
+          "instruction" : "把直接陈述改成礼貌请求",
+          "kind" : "transformation",
+          "meaning" : "我们能把电话会议改到明天吗？",
+          "prompt" : "Let's move the call to tomorrow."
+        },
+        {
+          "expectedAnswer" : "Sure, Friday works for me.",
+          "explanation" : "简短确认新的日期。",
+          "id" : "reschedule-resp-1",
+          "instruction" : "同意改期并确认时间",
+          "kind" : "response",
+          "meaning" : "当然，周五我可以。",
+          "prompt" : "Could we meet on Friday instead?"
+        },
+        {
+          "expectedAnswer" : "Could we meet on Friday at three?",
+          "explanation" : "增加具体时间方便确认。",
+          "id" : "reschedule-exp-1",
+          "instruction" : "加入 at three",
+          "kind" : "expansion",
+          "meaning" : "我们能周五三点见面吗？",
+          "prompt" : "Could we meet on Friday?"
+        }
+      ],
+      "id" : "rescheduling-01",
+      "level" : "A2–B1",
+      "pattern" : "Could we + 动词原形…?",
+      "subtitle" : "提出改期并给出新时间",
+      "title" : "改约时间"
+    }
+  ],
+  "revision" : 3,
+  "schemaVersion" : 1
+}
